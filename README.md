@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to the garbage pile,
+
+CS Student and B.Sc of Psychology without a clue as to what I'm doing!
 
 <!--
 **zarny77/zarny77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
